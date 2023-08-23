@@ -19,3 +19,5 @@ Các thư viện sử dụng:
 
 
 - Các thư viện về game: import pygame, from pygame.locals import * 
+
+<img width="897" alt="image" src="https://github.com/huydeptrai1/DOANPYTHON/assets/117000361/8e4d7db8-1bfb-4481-84df-5284c90934a9">
