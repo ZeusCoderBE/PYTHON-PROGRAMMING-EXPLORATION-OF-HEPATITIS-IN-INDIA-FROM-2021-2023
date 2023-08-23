@@ -1,5 +1,4 @@
-# DOANPYTHON
-LẬP TRÌNH PYTHON PHÂN TÍCH THĂM DÒ VIÊM GAN Ở ẤN ĐỘ TỪ NĂM  2021-2023
+# DOANPYTHON LẬP TRÌNH PYTHON PHÂN TÍCH THĂM DÒ VIÊM GAN Ở ẤN ĐỘ TỪ NĂM  2021-2023
 
 
 Được thực hiện bởi: #Đặng Nguyễn Quang Huy
