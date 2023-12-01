@@ -40,4 +40,3 @@ The "Python Programming Exploration of Hepatitis in India from 2021-2023" projec
 
 ![Project Image](https://github.com/huydeptrai1/DOANPYTHON/assets/117000361/8e4d7db8-1bfb-4481-84df-5284c90934a9)
 
-This project aims to provide a diverse exploration of hepatitis in India, covering the years 2021-2023, and demonstrates the versatility of Python for various tasks.
